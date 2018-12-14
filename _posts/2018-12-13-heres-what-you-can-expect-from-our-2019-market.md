@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Here’s What You Can Expect From Our 2019 Market
-date: 2018-12-13 20:00:18
+date: 2018-12-13 20:00:00
 tags:
   - Market Update
   - Real Estate
 excerpt: >-
   Our market has shifted into more of a neutral market, but we still have the
   makings for a strong spring in 2019.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Vija+Williams/Vija+Williams+-+Dec+2018+-+1+-+Market+Update.mp4
 pullquote: We can expect a more neutral market in 2019.
 enclosure_type: video/mp4
 enclosure_time:
