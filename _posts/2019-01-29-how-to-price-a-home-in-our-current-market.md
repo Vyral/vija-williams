@@ -25,6 +25,6 @@ When speaking and teaching throughout the nation, one of the things I’m aware 
 
 {% include pullquote.html %}
 
-Seattle consumers don’t tend to lowball, so it’s important to price your home where your agent thinks it’s going to sell. **With the average days on market between 30 and 40 days, it’s important that we put homes on the market at a price which will result in it going under contract quickly.**
+Seattle consumers don’t tend to lowball, so it’s important to price your home where your agent thinks it’s going to sell. **With the average days on market between 30 and 40 days, it’s important that we put your home at a price that will result in it going under contract quickly.**
 
 If you have any questions for me about buying or selling a home in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
