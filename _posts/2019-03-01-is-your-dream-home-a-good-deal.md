@@ -23,7 +23,7 @@ youtube_code: aiQ9y8s6oFA
 
 One question I get asked a lot is, “Is this house a good deal?” First of all, this is a great question.&nbsp;
 
-**The first and most important thing we look at is a home’s location.** You can not change this, and it’s the most important factor in your potential home’s value. Is this the best house you can get for your budget in this particular location? It’s important to ask yourself questions like this.
+****The first and most important thing we look at when determining whether a home is a good deal or not is its location.**** You can not change this, and it’s the most important factor in your potential home’s value. Is this the best house you can get for your budget in this particular location? It’s important to ask yourself questions like this.
 
 {% include pullquote.html %}
 
